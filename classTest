@@ -1,8 +1,0 @@
-// Learning object oriented programming and sysC modeling with TLM
-#inclue <iostream>
-using namespace std;
-
-int main()
-{
-    return 0;
-}
